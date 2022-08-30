@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArundhathiH
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science with ML,DP and NLP, Data Analysis and Data Visualization
+- 🌱 I’m currently learning Data Science with ML,DL and NLP and Data Analysis
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me : arundathih1@gmail.com
 
